@@ -1,0 +1,4 @@
+{
+  "html.hover.documentation": false,
+  "typescript.inlayHints.parameterNames.enabled": "all"
+}
